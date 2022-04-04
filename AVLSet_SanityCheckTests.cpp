@@ -1,19 +1,4 @@
-// AVLSet_SanityCheckTests.cpp
-//
-// ICS 46 Winter 2022
-// Project #4: Set the Controls for the Heart of the Sun
-//
-// This is a set of "sanity checking" unit tests for your AVLSet
-// implementation, provided primarily as a mechanism for ensuring that
-// your implementation is compatible with the unit tests we'll be using
-// to test it, and to give you a quick example of how each of the member
-// functions works.  These tests don't verify all of the functionality
-// you're implementing.
-//
-// As with the sanity-checking unit tests you saw in other projects, you
-// should not modify these in any way -- don't add #include directives,
-// and don't change the code within the tests.  These should all compile
-// and pass before you submit your AVLSet implementation.
+
 
 #include <string>
 #include <vector>
